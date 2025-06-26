@@ -1,12 +1,12 @@
 # dashboard-design
 
 
-## 🚀 Overview
+## Overview
 This interactive Power BI dashboard provides insights into **sales performance**, **forecast accuracy**, and the **impact of economic indicators** such as GDP growth, inflation, and unemployment rate. It is designed to help business stakeholders track KPIs, analyze trends over time, and make data-driven decisions.
 
 ---
 
-## 📁 Dataset
+## Dataset
 - **Source**: Simulated Financial Forecasting Data  
 - **Fields Used**:
   - `sales`, `target_sales`, `Absolute Error`, `Forecast Accuracy`
@@ -16,9 +16,9 @@ This interactive Power BI dashboard provides insights into **sales performance**
 
 ---
 
-## 🧩 Pages in the Dashboard
+## Pages in the Dashboard
 
-### 1. 📊 Performance Trends
+### 1. Performance Trends
 - **Key KPIs**: Total Sales, Forecast Accuracy, Average GDP Growth
 - **Visuals**:
   - Sales over time
@@ -30,7 +30,7 @@ This interactive Power BI dashboard provides insights into **sales performance**
   - Cards for totals
   - Clean, dark theme with consistent layout
 
-### 2. 📈 Forecast Accuracy
+### 2. Forecast Accuracy
 - **Visuals**:
   - Line chart: Sales vs Target Sales over time
   - Absolute Error trend
@@ -40,7 +40,7 @@ This interactive Power BI dashboard provides insights into **sales performance**
 
 ---
 
-## 🎯 Key Features
+## Key Features
 - **Interactive Filters**: Dropdown slicers allow dynamic exploration
 - **Time-Series Analysis**: Trends shown using `Time_index`
 - **Forecasting Accuracy**: Absolute error and accuracy metrics visualized
@@ -48,21 +48,21 @@ This interactive Power BI dashboard provides insights into **sales performance**
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - **Power BI Desktop**
 - Custom measures and fields added in Power BI
 - Visual types: Line, Column, Scatter, Cards, Slicers
 
 ---
 
-## 📤 Deliverables
+##  Deliverables
 - Power BI (.pbix) dashboard file
 - PowerPoint summary (.pptx)
 - README file (this document)
 
 ---
 
-## 📌 How to Use
+##  How to Use
 1. Open the `.pbix` file in Power BI Desktop.
 2. Navigate through the report tabs:
    - **Performance Trends**
