@@ -1,5 +1,5 @@
 # dashboard-design
-# 📊 Financial Forecasting Dashboard - Power BI Project
+
 
 ## 🚀 Overview
 This interactive Power BI dashboard provides insights into **sales performance**, **forecast accuracy**, and the **impact of economic indicators** such as GDP growth, inflation, and unemployment rate. It is designed to help business stakeholders track KPIs, analyze trends over time, and make data-driven decisions.
